@@ -1,0 +1,16 @@
+	** Angular Sheet To Owner ** 
+	** Practise Makes Man Perfect **
+Angular CRUD on One Page - Done
+Angular CRUD using Tabs - Done
+Angular E-Commerce Simple website - Done
+Angular Live Project Practise - Done
+Angular CRUD with Modals - Pending
+Angular CRUD with Routing - Pending
+Angular Form Control Add More - Pending
+Angular Form Group Add More - Pending
+Angular CRUD with Another Tutor - Pending
+Angular Authentication- Pending
+Angular Theme Integration - Pending
+Angular Guards - Pending
+
+
